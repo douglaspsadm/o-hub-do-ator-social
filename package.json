@@ -1,0 +1,10 @@
+{
+  "name": "o-hub-do-ator-social",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Central de Social Media e Skills de Vídeos (Instagram Reels & TikTok) para O Hub do Ator",
+  "scripts": {
+    "test": "node tests/validate-skills.mjs"
+  }
+}

@@ -1,0 +1,22 @@
+# Dependencies & builds
+node_modules/
+dist/
+out/
+.cache/
+
+# Perf-stack & local agent artifacts
+graphify-out/
+.context-mode/
+
+# Media renders / raw exports (keep repo light)
+renders/
+*.mp4
+*.mov
+*.mkv
+*.wav
+
+# OS & env
+.DS_Store
+Thumbs.db
+.env
+.env.local
