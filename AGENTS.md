@@ -12,6 +12,8 @@ Em toda tarefa de código, análise, roteiro ou manutenção:
 4. **Graphify**: mantenha `graphify-out/graph.json` atualizado (`graphify extract .`) e consulte antes de buscas amplas.
 5. **Context Mode & Headroom**: nunca despeje saídas gigantes no contexto; leia apenas os trechos necessários.
 
+Roteamento de agentes e skills: veja `AGENT.md`. Gerente: `social-manager`.
+
 ## Convenções de Social Media (Instagram Reels & TikTok)
 
 - **Voz humana (PT-BR)**: fale como ator para ator (bastidor real, dor prática de decorar texto, gravar self-tape tarde da noite, falta de parceiro de cena). Elimine clichês de IA ("No mundo dinâmico...", "Descubra como revolucionar...").

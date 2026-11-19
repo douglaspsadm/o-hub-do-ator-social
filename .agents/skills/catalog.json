@@ -1,0 +1,26 @@
+{
+  "skills": [
+    {"name": "perf-stack", "origin": "local"},
+    {"name": "reels-tiktok-hub-do-ator", "origin": "local"},
+    {"name": "ig-reel", "origin": "Jakeschincariol/instagram-agent-skill", "license": "MIT"},
+    {"name": "ig-viral", "origin": "Jakeschincariol/instagram-agent-skill", "license": "MIT"},
+    {"name": "ig-caption", "origin": "Jakeschincariol/instagram-agent-skill", "license": "MIT"},
+    {"name": "ig-human", "origin": "Jakeschincariol/instagram-agent-skill", "license": "MIT"},
+    {"name": "ig-plan", "origin": "Jakeschincariol/instagram-agent-skill", "license": "MIT"},
+    {"name": "ig-repurpose", "origin": "Jakeschincariol/instagram-agent-skill", "license": "MIT"},
+    {"name": "ig-story", "origin": "Jakeschincariol/instagram-agent-skill", "license": "MIT"},
+    {"name": "ig-comment", "origin": "Jakeschincariol/instagram-agent-skill", "license": "MIT"},
+    {"name": "create-viral-content", "origin": "aaaronmiller/create-viral-content", "license": "MIT (frontmatter)"},
+    {"name": "reels-scripting", "origin": "charlie947/social-media-skills", "license": "MIT"},
+    {"name": "hook-generator", "origin": "charlie947/social-media-skills", "license": "MIT"},
+    {"name": "post-scorer", "origin": "charlie947/social-media-skills", "license": "MIT"},
+    {"name": "niche-research", "origin": "charlie947/social-media-skills", "license": "MIT"},
+    {"name": "video-watch", "origin": "bradautomates/claude-video (skills/watch, renamed)", "license": "MIT"},
+    {"name": "mkt-social", "origin": "coreyhaines31/marketingskills (skills/social, renamed)", "license": "MIT"},
+    {"name": "mkt-copywriting", "origin": "coreyhaines31/marketingskills (skills/copywriting, renamed)", "license": "MIT"},
+    {"name": "mkt-copy-editing", "origin": "coreyhaines31/marketingskills (skills/copy-editing, renamed)", "license": "MIT"}
+  ],
+  "external": [
+    {"name": "remotion-dev/skills", "install": "npx skills add remotion-dev/skills", "reason": "sem licença de redistribuição explícita; Remotion exige licença comercial para empresas maiores", "owner": "video-producer"}
+  ]
+}

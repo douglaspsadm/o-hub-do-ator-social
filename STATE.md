@@ -2,7 +2,7 @@
 
 > Todo agente deve ler este arquivo ao começar e atualizá-lo ao terminar.
 
-**Última atualização:** 2026-11-19 — Bootstrap inicial do repositório de Social Media (`douglaspsadm/o-hub-do-ator-social`), catálogo dos repositórios de skills de vídeo com mais estrelas no GitHub, skill `reels-tiktok-hub-do-ator` e 1º roteiro pronto (`Bate-Texto`).
+**Última atualização:** 2026-11-19 — Importadas 17 skills MIT de terceiros, criados 8 agentes (gerente `social-manager`), `AGENT.md` com roteamento, `catalog.json`, `THIRD_PARTY.md` e teste de consistência. Antes: bootstrap, catálogo de skills do GitHub e 1º roteiro.
 
 ## Arquitetura & Arquivos Principais
 
@@ -12,12 +12,18 @@
 - [`tests/validate-skills.mjs`](tests/validate-skills.mjs): smoke test (`npm test`) que valida arquivos obrigatórios e frontmatter das skills.
 - [`scripts/setup-perf-tools.sh`](scripts/setup-perf-tools.sh) + [`.agents/skills/perf-stack/SKILL.md`](.agents/skills/perf-stack/SKILL.md): stack de performance obrigatória.
 
+## Agentes e Skills
+- 8 agentes em `.agents/agents/` (roteamento em `AGENT.md` §3); gerente: `social-manager`.
+- 19 skills em `.agents/skills/` (2 locais + 17 de terceiros, ver `THIRD_PARTY.md`); `catalog.json` deve sempre bater com o disco.
+- `remotion-dev/skills` NÃO foi copiada (sem licença explícita); instalar com `npx skills add remotion-dev/skills` ao renderizar.
+- Skills de terceiros renomeadas: `watch`→`video-watch`, `social`→`mkt-social`, `copywriting`→`mkt-copywriting`, `copy-editing`→`mkt-copy-editing`.
+
 ## Validações Executadas
 
-- `npm test` (`node tests/validate-skills.mjs`): PASS (`10` arquivos obrigatórios e `2` skills validadas).
+- `npm test` (`node tests/validate-skills.mjs`): PASS (11 arquivos, 19 skills, 8 agentes; checa nome=pasta, catálogo, skills órfãs e roteamento).
 
 ## Próximos Passos
 
-1. Instalar ou adaptar skills externas selecionadas do catálogo (ex.: `Jakeschincariol/instagram-agent-skill` para variações de ganchos e `remotion-dev/skills` ou `Vincentwei1021/video-shotcraft` se quiser renderizar vídeos de demo automaticamente via código).
-2. Criar uma série inicial de 5 roteiros em `roteiros/` cobrindo as principais dores de atores (Bate-Texto, Importação de PDF, Self-Tape em 90s, 5 Perguntas do Personagem e Composite Card).
-3. Definir calendário editorial semanal e kit visual (cores, fontes e zonas seguras 9:16).
+1. Rodar o fluxo completo com `social-manager` num 2º vídeo (Importar PDF → separar papel) e ajustar os agentes conforme o resultado.
+2. Série inicial de 5 roteiros em `roteiros/` e 1ª semana em `planejamento/`.
+3. Se for renderizar com Remotion, instalar a skill externa e confirmar a licença.

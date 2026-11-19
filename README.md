@@ -6,27 +6,39 @@ Central de pesquisa, skills de IA e roteiros de vídeos curtos (**Instagram Reel
 
 ```text
 .
-├── .agents/skills/
-│   ├── perf-stack/SKILL.md                  # Stack de performance (RTK, Graphify, etc.)
-│   └── reels-tiktok-hub-do-ator/
-│       ├── SKILL.md                         # Skill pronta para roteiros de Reels & TikTok do app
-│       └── references/hooks-atores.md       # Banco de ganchos testados para o nicho de atuação
-├── research/
-│   └── top-video-skills-github.md           # Curadoria dos repositórios de vídeo/social com mais estrelas no GitHub
-├── roteiros/
-│   └── 01-bate-texto-sozinho.md             # Primeiro roteiro pronto para gravação (Bate-Texto solo)
-├── scripts/
-│   └── setup-perf-tools.sh                  # Instalador das ferramentas perf-stack
-├── tests/
-│   └── validate-skills.mjs                  # Smoke test de validação de skills e arquivos
-├── AGENTS.md
-└── STATE.md
+├── AGENT.md                  # Regras + roteamento (protegido; só o social-manager edita)
+├── AGENTS.md                 # perf-stack e convenções de conteúdo
+├── STATE.md                  # Estado atual do projeto
+├── THIRD_PARTY.md            # Origem e licença das skills importadas
+├── .agents/
+│   ├── agents/               # 8 agentes (social-manager é o gerente)
+│   └── skills/               # 19 skills + catalog.json
+├── research/                 # Catálogo de skills do GitHub, tendências e ganchos
+├── roteiros/                 # Roteiros prontos para gravar
+├── planejamento/             # Calendário editorial
+├── third_party/licenses/     # Licenças das skills importadas
+└── tests/validate-skills.mjs # Valida skills, agentes, catálogo e roteamento
 ```
+
+## Agentes
+
+| Agente | Papel |
+|---|---|
+| `social-manager` | Gerente: administra skills e agentes, roteia e audita |
+| `trend-researcher` | Pesquisa nicho e decupa virais |
+| `hook-strategist` | Ganchos 0–3s |
+| `reel-scriptwriter` | Roteiros de Reels/TikTok/Story |
+| `video-producer` | Plano de gravação, edição e render (Remotion externo) |
+| `caption-publisher` | Legendas, hashtags, comentários, versão TikTok |
+| `content-planner` | Calendário e séries |
+| `quality-reviewer` | Revisão final: verdade, tom humano, nota |
+
+Fluxo: pesquisa → gancho → roteiro → revisão → produção → legenda → revisão.
 
 ## Como Usar
 
 1. **Consultar o catálogo de skills do GitHub**: abra [`research/top-video-skills-github.md`](research/top-video-skills-github.md) para escolher e instalar skills externas de roteiro, edição, efeitos ou renderização com Remotion.
-2. **Gerar novos roteiros de Reels/TikTok**: acione a skill [`reels-tiktok-hub-do-ator`](.agents/skills/reels-tiktok-hub-do-ator/SKILL.md) informando a funcionalidade do app (ex.: *Bate-Texto*, *Importar PDF*, *Self-Tape*, *Criação de Personagem*) e o formato desejado (*Talking-Head*, *POV de Bastidor*, *Demo de Tela*).
+2. **Gerar novos roteiros de Reels/TikTok**: peça ao `reel-scriptwriter` (skill [`reels-tiktok-hub-do-ator`](.agents/skills/reels-tiktok-hub-do-ator/SKILL.md)) informando a funcionalidade do app (ex.: *Bate-Texto*, *Importar PDF*, *Self-Tape*, *Criação de Personagem*) e o formato desejado (*Talking-Head*, *POV de Bastidor*, *Demo de Tela*).
 3. **Validar o repositório**:
 
 ```bash
