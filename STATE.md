@@ -2,7 +2,7 @@
 
 > Todo agente deve ler este arquivo ao começar e atualizá-lo ao terminar.
 
-**Última atualização:** 2026-11-19 — Analisado o vídeo de teste do Drive (`Video_by_noleto_Df43eClRweb.mp4`) e criada a versão melhorada completa em `roteiros/02-iomax-teatro-melhorado.md` (ganchos, roteiro ~32s, plano de produção, legendas IG/TikTok e revisão `8,8/10`).
+**Última atualização:** 2026-11-19 — Roteiro `02` atualizado especificamente para **gravação com atores reais** (mini-cena de bastidor, guia de direção de atuação, lista de 8 takes em ~15 min, tela cheia do app e revisão `9,2/10`).
 
 ## Arquitetura & Arquivos Principais
 
@@ -10,7 +10,7 @@
 - [`research/analise-video-teste-Df43eClRweb.md`](research/analise-video-teste-Df43eClRweb.md): transcrição e diagnóstico de retenção do vídeo de teste original (52,6s).
 - [`.agents/skills/reels-tiktok-hub-do-ator/SKILL.md`](.agents/skills/reels-tiktok-hub-do-ator/SKILL.md) + [`references/hooks-atores.md`](.agents/skills/reels-tiktok-hub-do-ator/references/hooks-atores.md): skill sob medida para gerar roteiros de Reels e TikTok em PT-BR promovendo O Hub do Ator sem vícios de IA.
 - [`roteiros/01-bate-texto-sozinho.md`](roteiros/01-bate-texto-sozinho.md): primeiro roteiro cronometrado (~32s) focado no **Bate-Texto Automático**.
-- [`roteiros/02-iomax-teatro-melhorado.md`](roteiros/02-iomax-teatro-melhorado.md): versão melhorada do vídeo de teste (30–34s, tela cheia, áudio real da deixa, sem HeyGen, legendas e revisão).
+- [`roteiros/02-iomax-teatro-melhorado.md`](roteiros/02-iomax-teatro-melhorado.md): versão melhorada do vídeo de teste para **atores reais** (30–35s, mini-cena + áudio real da deixa + lista de 8 takes + legendas + revisão `9,2/10`).
 - [`tests/validate-skills.mjs`](tests/validate-skills.mjs): smoke test (`npm test`) que valida arquivos obrigatórios e frontmatter das skills.
 - [`scripts/setup-perf-tools.sh`](scripts/setup-perf-tools.sh) + [`.agents/skills/perf-stack/SKILL.md`](.agents/skills/perf-stack/SKILL.md): stack de performance obrigatória.
 

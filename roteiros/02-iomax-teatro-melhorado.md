@@ -1,51 +1,58 @@
-# Roteiro 02 — Ensaiar Peça Sozinho (Versão Melhorada do Vídeo de Teste)
+# Roteiro 02 — Ensaiar Peça Sozinho (Gravação com Ator Real)
 
 - **Baseado em:** [`research/analise-video-teste-Df43eClRweb.md`](../research/analise-video-teste-Df43eClRweb.md)
 - **Plataformas:** Instagram Reels & TikTok (9:16, 1080×1920)
-- **Duração alvo:** **30–34 segundos** (reduzido de 52,6s)
-- **Formato:** Demo de Tela em Tela Cheia + Voz em Off Natural (ou Ator Real nos 0–4s e 26–32s)
-- **Produto:** **Iomax Teatro** *(trocar o nome se for publicar já sob a marca O Hub do Ator)*
+- **Duração alvo:** **30–35 segundos**
+- **Formato:** Mini-cena de bastidor com **Ator Real** + tela cheia do app + áudio real da deixa
+- **Produto:** **Iomax Teatro** *(ajustar o nome na fala caso vá publicar sob O Hub do Ator)*
 
 ---
 
-## 1. Ganchos Pontuados (`hook-strategist`)
+## 1. Ganchos Pontuados para Ator Real (`hook-strategist`)
 
-| # | Gancho Verbal (0–3s) | Gancho Visual (Frame 0) | Nota | Por que funciona |
+| # | Abertura em Cena (0–3s) | Fala de Abertura | Nota | Por que funciona |
 |---:|---|---|---:|---|
-| **1 (Escolhido)** | *"Ensaiar texto sozinho sem ninguém pra dar a deixa é horrível — até fazer isso."* | Tela cheia de um PDF de peça rolando rápido + corte seco pro app lendo a deixa em voz alta. | **9/10** | Vai direto na dor em 1 segundo e abre loop de curiosidade (*"fazer isso"*). |
-| 2 | *"Subi o PDF da peça inteira e o celular virou meu parceiro de cena."* | Dedo tocando em `Importar roteiro (PDF)` em tela cheia com zoom rápido. | **8,5/10** | Prova visual imediata, zero enrolação. |
-| 3 | *"Parei de pedir favor no grupo do elenco pra bater texto comigo."* | Tela de WhatsApp sem resposta (1s) → corte seco pro celular falando a deixa. | **8,5/10** | Forte identificação de bastidor (gera comentários e marcações de colegas). |
+| **1 (Escolhido)** | Ator no quarto tentando fazer os dois papéis sozinho, se perde na folha e olha pra câmera cansado. | *"Ensaiar texto sozinho sem ninguém pra dar a deixa é horrível — até fazer isso."* | **9,5/10** | Todo ator já viveu isso; começa em ação dramática, zero cara de anúncio. |
+| 2 | Ator olhando o celular à noite ("23h"), ninguém respondeu no grupo do elenco. | *"Quando o ensaio é amanhã e ninguém do elenco responde pra bater texto..."* | **9/10** | Gera identificação imediata e marcação de colegas de grupo. |
+| 3 | Ator segurando um calhamaço de roteiro impresso com marca-texto na mão, larga na mesa. | *"Eu parei de perder horas marcando PDF pra decorar texto."* | **8,5/10** | Gancho direto de economia de tempo. |
 
 ---
 
 ## 2. Roteiro Cronometrado (`reel-scriptwriter`)
 
-| Tempo | Vídeo / Enquadramento (Tela Cheia) | Texto na Tela (Zona Segura — terço médio) | Fala / Áudio |
+| Tempo | Take / Ação do Ator Real | Texto na Tela (Zona Segura) | Fala / Áudio |
 |---|---|---|---|
-| **0–3s** | **Frame 0 já em movimento:** zoom rápido num PDF de roteiro gigante no celular (ou ator segurando roteiro à noite com cara de cansado). Corte seco no segundo 3. | `Ensaiar texto sozinho sem ninguém pra dar a deixa?` | "Ensaiar texto sozinho sem ninguém pra dar a deixa é horrível — até você fazer isso." |
-| **3–9s** | **Tela cheia do app** (sem janelinha pequena): dedo toca em `Importar roteiro (PDF)` → corte rápido para a lista de cenas e personagens já separada automaticamente. | `1. Sobe o PDF da peça` | "Você sobe o PDF da peça inteira no Iomax Teatro e ele já separa todas as cenas, os personagens e as falas de cada um." |
-| **9–19s** | **Tela cheia com zoom na área de ensaio:** toca no personagem → toca em **Iniciar ensaio**. **AQUI ENTRA O ÁUDIO REAL DO APP** falando uma deixa curta (2s) e pausando com destaque na sua fala. | `2. Ele fala a deixa e espera você` | "Escolhe seu personagem, escolhe a cena e dá play. Ele fala a deixa do outro personagem..." *(2s de áudio real do app falando a deixa)* "...e para na sua vez, esperando você responder." |
-| **19–25s** | **2 cortes rápidos (3s cada) em tela cheia:** (a) gravando a própria voz na fala; (b) tocando em `Baixar MP3` e depois abrindo o `PDF só com as suas falas`. | `Grava sua voz • Baixa MP3 • PDF só seu` | "Ainda dá pra gravar sua própria voz pra ouvir como ficou, baixar o áudio pra decorar no caminho e gerar o PDF só com as suas falas." |
-| **25–32s** | Volta pro rosto real (ou mão segurando o celular com o roteiro pronto) — **sem avatar HeyGen**. | `Comenta "ROTEIRO" que eu mando o link` | "Pra chegar no ensaio com o texto na ponta da língua sem depender de ninguém. Comenta **ROTEIRO** aqui embaixo que eu te mando o link." |
+| **0–3s** | **Take 1 (Plano Médio — bastidor real):** Ator sentado na cama/mesa com o roteiro na mão, tenta ler a deixa do outro personagem, se atrapalha, baixa o texto e olha pra câmera. | `Ensaiar sozinho sem ninguém pra dar a deixa?` | *(tentando ler, para e olha pra câmera)* "Ensaiar texto sozinho sem ninguém pra dar a deixa é horrível..." |
+| **3–5s** | **Take 2 (Close / corte seco):** Ator pega o celular com energia de solução. | `...até eu começar a fazer isso` | "...até eu começar a fazer isso." |
+| **5–11s** | **Take 3 (Tela cheia do app + zoom no toque):** Sobe o PDF da peça (`Importar roteiro`) → corte rápido para cenas, personagens e falas já organizados. | `Sobe o PDF → ele separa tudo` | *(voz em off do próprio ator, natural)* "Eu subo o PDF da peça no Iomax Teatro e ele já organiza todas as cenas, os personagens e as falas." |
+| **11–21s** | **Take 4 (O MOMENTO MÁGICO — Plano Médio do ator + celular apoiado na mesa):** Ator em pé, ensaiando de verdade. O celular toca **a deixa real do outro personagem em voz alta**. O ator **responde atuando de verdade** (com intenção real, não "lendo publi"). Corte rápido de 2s mostrando a tela esperando a vez dele. | `O app dá a deixa e espera você` | *(voz em off rápida, 2s)* "Aí eu escolho meu personagem, dou play..." → **[ÁUDIO REAL DO APP falando a deixa]** → **[ATOR RESPONDE EM CENA, atuando de verdade]** → *(ator olha de relance pra câmera, sorrindo)* "Ele fala a deixa e para esperando a minha vez." |
+| **21–26s** | **Takes 5 e 6 (2 cortes rápidos de 2,5s cada):** (a) Ator ouvindo a própria gravação no celular; (b) Ator colocando fone de ouvido saindo de casa (com overlay rápido de `Baixar MP3` e `PDF só com as suas falas`). | `Grava sua voz • Baixa MP3 • PDF só seu` | *(voz em off)* "Ainda dá pra gravar sua voz pra ouvir depois, baixar o áudio pra ir decorando no caminho e gerar o PDF só com as suas falas." |
+| **26–33s** | **Take 7 (Close natural do ator olhando pra câmera):** Sem pose rígida, tom de dica de bastidor entre amigos. | `Comenta "ROTEIRO" que eu mando o link` | "Assim dá pra chegar no ensaio com o texto na ponta da língua sem depender de ninguém. Comenta **ROTEIRO** aqui embaixo que eu te mando o link." |
 
 ---
 
-## 3. Plano de Produção e Edição (`video-producer`)
+## 3. Guia de Direção e Lista de Takes (`video-producer`)
 
-### Mudanças obrigatórias em relação ao vídeo original
-1. **Tirar o avatar HeyGen e a marca d'água:**
-   - **Opção A (melhor retenção):** você mesmo (ou um ator amigo) gravando apenas os 3s iniciais e os 6s finais com o celular na vertical, luz natural de frente, falando como conversa real. O meio (3–25s) é **100% gravação de tela em tela cheia**.
-   - **Opção B (sem aparecer):** 100% gravação de tela + B-roll rápido de roteiro/caderno na mesa, narrado com voz humana gravada no microfone do celular (perto da boca, em ambiente silencioso).
-2. **Gravação de tela em alta nitidez (1080×1920):**
-   - Grave a tela do celular **sem nomes reais de alunos** (crie uma peça de teste ou use apenas o nome dos personagens da peça).
-   - Aplique **zoom suave (110%–125%)** exatamente no botão clicado (`Importar roteiro`, `Iniciar ensaio`, `Baixar MP3`, `Gerar PDF`) para ficar legível no feed.
-3. **Ritmo e som:**
-   - Corte visual a cada **2 a 3 segundos** (nenhum plano parado por mais de 4s).
-   - Deixe **2 segundos do áudio real do app falando a deixa** entre `12s` e `15s` — ouvir funcionando vale mais do que explicar.
-   - Trilha instrumental discreta em `-22 dB` a `-26 dB` (nunca brigando com a voz).
-4. **Legendas (Zona Segura):**
-   - Legenda sincronizada palavra por palavra (estilo CapCut limpo, fonte sem serifa branca com contorno/sombra leve, palavra-chave em destaque).
-   - Mantenha todas as legendas no **terço médio** (acima dos 30% inferiores para não bater na legenda do Instagram/TikTok).
+### Direção de Atuação (regra de ouro)
+- **Zero "voz de locutor" ou "Olá pessoal":** dirija o ator como se ele estivesse mandando um vídeo de 30s num grupo de amigos atores contando uma descoberta.
+- **No Take 4 (a cena real):** escolha uma fala curta e expressiva (1 frase de deixa do app + 1 frase de resposta do ator). A atuação verdadeira nesse trecho é o que prende outros atores até o final.
+- **Figurino e cenário:** roupa cotidiana de ensaio (camiseta/moletom liso, sem estampa chamativa) + quarto, sala ou camarim real com luz natural vindo de frente (janela). Evitar fundo de palco artificial/cromakey.
+
+### Lista de Gravação (tudo em ~15 minutos com 1 celular)
+1. **Take 1 (0–3s):** ator tentando bater texto sozinho, se perdendo e olhando pra câmera *(gravar 3 variações de energia)*.
+2. **Take 2 (3–5s):** close dizendo *"...até eu começar a fazer isso"* pegando o celular.
+3. **Take 3 (tela do celular):** gravação de tela 1080×1920 subindo um **PDF de demonstração sem nomes reais de alunos** → mostrando cenas/personagens → iniciando o ensaio.
+4. **Take 4 (11–21s):** câmera no tripé (ou apoiada) mostrando o ator em pé contracenando com o celular na mesa; volume do celular alto o suficiente para o microfone captar a deixa do app.
+5. **Take 5 (21–23s):** close da mão/ator ouvindo a própria fala gravada no app.
+6. **Take 6 (23–26s):** ator colocando fone de ouvido (ou andando) + captura rápida de `Baixar MP3` e `PDF só com as suas falas`.
+7. **Take 7 (26–33s):** close final com o CTA (`Comenta ROTEIRO`).
+8. **Áudio em off (Takes 3, 5 e 6):** gravar as falas de narração com o mesmo ator logo depois, perto do microfone do celular, para manter a mesma voz do início ao fim.
+
+### Edição (9:16 — 1080×1920)
+- **Cortes:** nenhum plano parado por mais de 3–4 segundos; cortar todas as respirações longas entre frases.
+- **Tela do app:** sempre em **tela cheia** com zoom leve (115%) no botão tocado — nunca em janelinha pequena no canto.
+- **Legendas:** sincronizadas palavra por palavra no **terço médio** (zona segura acima dos 30% inferiores).
+- **Trilha:** instrumental sutil em `-24 dB`, abaixando ainda mais durante a deixa real do app no Take 4.
 
 ---
 
@@ -73,8 +80,8 @@ Ensaiar peça sozinho sem ninguém pra dar a deixa ficou bem mais fácil. Sobe o
 
 ## Revisão (`quality-reviewer`)
 
-- **Verdade sobre o app:** ✅ Aprovado — todas as 5 funções citadas (importar PDF, separar cenas/personagens, ler deixa e esperar, gravar voz, baixar MP3 e gerar PDF do personagem) aparecem funcionando na gravação original.
-- **Tom humano / Anti-IA:** ✅ Aprovado — removidos "Olá pessoal", "feito para quem vive de palco", "E tem mais" e "bom espetáculo". Frases curtas, fáceis de falar em voz alta.
-- **Retenção & Estrutura:** ✅ Aprovado — gancho na dor em `0–3s`, prova em tela cheia com áudio real do app, duração enxuta (~32s) e CTA de comentário com palavra-chave (`ROTEIRO`).
-- **Nota `post-scorer`:** **8,8 / 10** — **APROVADO PARA GRAVAÇÃO.**
-- **Ajuste pendente antes de gravar:** confirmar se o vídeo vai sair com o nome **Iomax Teatro** ou **O Hub do Ator** (e usar roteiro sem nomes de alunos reais na captura de tela).
+- **Verdade sobre o app:** ✅ Aprovado — todas as 5 funções citadas aparecem na captura real do app.
+- **Tom humano / Atuação real:** ✅ Aprovado — substitui o formato institucional por uma mini-cena real de ator ensaiando + prova ao vivo do app dando a deixa.
+- **Retenção & Estrutura:** ✅ Aprovado — começa no conflito em `0s`, entrega prova visual e sonora em `11–21s`, fecha em ~33s com CTA de comentário (`ROTEIRO`).
+- **Nota `post-scorer`:** **9,2 / 10** — **APROVADO PARA GRAVAÇÃO COM ATOR REAL.**
+- **Antes de gravar:** confirmar se o nome falado será **Iomax Teatro** ou **O Hub do Ator** e usar um PDF de demonstração sem nomes reais de alunos.
