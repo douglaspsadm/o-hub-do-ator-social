@@ -2,7 +2,7 @@
 
 > Todo agente deve ler este arquivo ao começar e atualizá-lo ao terminar.
 
-**Última atualização:** 2026-11-19 — Roteiro `02` atualizado especificamente para **gravação com atores reais** (mini-cena de bastidor, guia de direção de atuação, lista de 8 takes em ~15 min, tela cheia do app e revisão `9,2/10`).
+**Última atualização:** 2026-11-19 — Roteiro `03` criado ([`roteiros/03-gravar-cena-sozinho-esquete.md`](roteiros/03-gravar-cena-sozinho-esquete.md)): esquete com **2 atores reais** (36s, `Take 14 tentando gravar cena sozinho`, fluxo completo `hook-strategist` → `reel-scriptwriter` → `video-producer` → `caption-publisher` → `quality-reviewer`, nota `9,3/10`).
 
 ## Arquitetura & Arquivos Principais
 
@@ -11,6 +11,7 @@
 - [`.agents/skills/reels-tiktok-hub-do-ator/SKILL.md`](.agents/skills/reels-tiktok-hub-do-ator/SKILL.md) + [`references/hooks-atores.md`](.agents/skills/reels-tiktok-hub-do-ator/references/hooks-atores.md): skill sob medida para gerar roteiros de Reels e TikTok em PT-BR promovendo O Hub do Ator sem vícios de IA.
 - [`roteiros/01-bate-texto-sozinho.md`](roteiros/01-bate-texto-sozinho.md): primeiro roteiro cronometrado (~32s) focado no **Bate-Texto Automático**.
 - [`roteiros/02-iomax-teatro-melhorado.md`](roteiros/02-iomax-teatro-melhorado.md): versão melhorada do vídeo de teste para **atores reais** (30–35s, mini-cena + áudio real da deixa + lista de 8 takes + legendas + revisão `9,2/10`).
+- [`roteiros/03-gravar-cena-sozinho-esquete.md`](roteiros/03-gravar-cena-sozinho-esquete.md): esquete com **2 atores reais** (36s, Ator A travando tentando gravar cena de peça sozinho + amigo Ator B mostrando o Bate-Texto automático e checklist de self-tape do Hub do Ator + guia de direção/takes + legendas + revisão `9,3/10`).
 - [`tests/validate-skills.mjs`](tests/validate-skills.mjs): smoke test (`npm test`) que valida arquivos obrigatórios e frontmatter das skills.
 - [`scripts/setup-perf-tools.sh`](scripts/setup-perf-tools.sh) + [`.agents/skills/perf-stack/SKILL.md`](.agents/skills/perf-stack/SKILL.md): stack de performance obrigatória.
 
