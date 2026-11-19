@@ -2,13 +2,15 @@
 
 > Todo agente deve ler este arquivo ao começar e atualizá-lo ao terminar.
 
-**Última atualização:** 2026-11-19 — Importadas 17 skills MIT de terceiros, criados 8 agentes (gerente `social-manager`), `AGENT.md` com roteamento, `catalog.json`, `THIRD_PARTY.md` e teste de consistência. Antes: bootstrap, catálogo de skills do GitHub e 1º roteiro.
+**Última atualização:** 2026-11-19 — Analisado o vídeo de teste do Drive (`Video_by_noleto_Df43eClRweb.mp4`) e criada a versão melhorada completa em `roteiros/02-iomax-teatro-melhorado.md` (ganchos, roteiro ~32s, plano de produção, legendas IG/TikTok e revisão `8,8/10`).
 
 ## Arquitetura & Arquivos Principais
 
 - [`research/top-video-skills-github.md`](research/top-video-skills-github.md): levantamento verificado (via GitHub API) dos 15+ repositórios de skills de vídeo para Instagram Reels e TikTok com mais estrelas (incluindo `coreyhaines31/marketingskills`, `Vincentwei1021/video-shotcraft`, `bradautomates/claude-video`, `nexu-io/openmotion`, `remotion-dev/skills`, `Jakeschincariol/instagram-agent-skill`, etc.).
+- [`research/analise-video-teste-Df43eClRweb.md`](research/analise-video-teste-Df43eClRweb.md): transcrição e diagnóstico de retenção do vídeo de teste original (52,6s).
 - [`.agents/skills/reels-tiktok-hub-do-ator/SKILL.md`](.agents/skills/reels-tiktok-hub-do-ator/SKILL.md) + [`references/hooks-atores.md`](.agents/skills/reels-tiktok-hub-do-ator/references/hooks-atores.md): skill sob medida para gerar roteiros de Reels e TikTok em PT-BR promovendo O Hub do Ator sem vícios de IA.
 - [`roteiros/01-bate-texto-sozinho.md`](roteiros/01-bate-texto-sozinho.md): primeiro roteiro cronometrado (~32s) focado no **Bate-Texto Automático**.
+- [`roteiros/02-iomax-teatro-melhorado.md`](roteiros/02-iomax-teatro-melhorado.md): versão melhorada do vídeo de teste (30–34s, tela cheia, áudio real da deixa, sem HeyGen, legendas e revisão).
 - [`tests/validate-skills.mjs`](tests/validate-skills.mjs): smoke test (`npm test`) que valida arquivos obrigatórios e frontmatter das skills.
 - [`scripts/setup-perf-tools.sh`](scripts/setup-perf-tools.sh) + [`.agents/skills/perf-stack/SKILL.md`](.agents/skills/perf-stack/SKILL.md): stack de performance obrigatória.
 
