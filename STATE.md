@@ -2,7 +2,7 @@
 
 > Todo agente deve ler este arquivo ao começar e atualizá-lo ao terminar.
 
-**Última atualização:** 2026-11-19 — Importadas 8 skills MIT de tráfego pago (`coreyhaines31/marketingskills` + `AgriciDaniel/claude-ads`) + skill local `paid-traffic-readiness`, criados os agentes `paid-traffic-advisor` e `paid-ads-strategist` (total: **28 skills**, **10 agentes**) e adicionada variação `roteiros/04-desesperado-gravar-dupla.md` (dupla de atores reais, nota `9,4/10`).
+**Última atualização:** 2026-11-19 — `README.md` reescrito como guia completo de uso (leitor de vídeo, pesquisa/ganchos, roteiros com atores reais, legendas, revisão, calendário e análise de retenção + tráfego pago) e sem o nome "O Hub do Ator".
 
 ## Arquitetura & Arquivos Principais
 
