@@ -23,9 +23,12 @@ Produzir vídeos curtos (Instagram Reels e TikTok) que divulgam **O Hub do Ator*
 | Legenda, hashtags, comentário fixado, versão TikTok | `caption-publisher` | `ig-caption`, `ig-comment`, `ig-repurpose`, `mkt-social`, `mkt-copywriting` |
 | Calendário e séries de conteúdo | `content-planner` | `ig-plan`, `mkt-social`, `ig-repurpose` |
 | Revisão final (verdade, tom humano, nota) | `quality-reviewer` | `ig-human`, `mkt-copy-editing`, `post-scorer`, `create-viral-content` |
+| Decidir se vale a pena investir em tráfego pago agora, orçamento e matemática (CAC/CPA/ROAS) | `paid-traffic-advisor` | `paid-traffic-readiness`, `mkt-ads`, `ads-math`, `ads-budget` |
+| Estruturar campanhas (Meta Ads / TikTok Ads), criativos de anúncio e Pixel/UTM | `paid-ads-strategist` | `mkt-ad-creative`, `mkt-conversion-tracking`, `ads-meta`, `ads-tiktok`, `ads-plan` |
 
 ## 4. Fluxo padrão de um vídeo
-`trend-researcher` → `hook-strategist` → `reel-scriptwriter` → `quality-reviewer` → `video-producer` → `caption-publisher` → `quality-reviewer` (aprova legenda).
+- **Orgânico:** `trend-researcher` → `hook-strategist` → `reel-scriptwriter` → `quality-reviewer` → `video-producer` → `caption-publisher` → `quality-reviewer` (aprova legenda).
+- **Tráfego pago (somente após sinal verde):** vídeo orgânico validado → `paid-traffic-advisor` (semáforo 🔴/🟡/🟢) → `paid-ads-strategist` (criativos, Pixel/UTM e plano de campanha).
 
 ## 5. Regras gerais
 - Antes de agir: ler `AGENT.md` e `STATE.md`. Ao terminar: `npm test`, atualizar `STATE.md`, commit e push.

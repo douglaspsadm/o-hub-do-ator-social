@@ -11,11 +11,11 @@ Central de pesquisa, skills de IA e roteiros de vídeos curtos (**Instagram Reel
 ├── STATE.md                  # Estado atual do projeto
 ├── THIRD_PARTY.md            # Origem e licença das skills importadas
 ├── .agents/
-│   ├── agents/               # 8 agentes (social-manager é o gerente)
-│   └── skills/               # 19 skills + catalog.json
-├── research/                 # Catálogo de skills do GitHub, tendências e ganchos
+│   ├── agents/               # 10 agentes (social-manager é o gerente)
+│   └── skills/               # 28 skills + catalog.json
+├── research/                 # Catálogos de skills do GitHub (vídeo + tráfego pago), análises e ganchos
 ├── roteiros/                 # Roteiros prontos para gravar
-├── planejamento/             # Calendário editorial
+├── planejamento/             # Calendário editorial e diagnósticos de tráfego pago
 ├── third_party/licenses/     # Licenças das skills importadas
 └── tests/validate-skills.mjs # Valida skills, agentes, catálogo e roteamento
 ```
@@ -32,8 +32,11 @@ Central de pesquisa, skills de IA e roteiros de vídeos curtos (**Instagram Reel
 | `caption-publisher` | Legendas, hashtags, comentários, versão TikTok |
 | `content-planner` | Calendário e séries |
 | `quality-reviewer` | Revisão final: verdade, tom humano, nota |
+| `paid-traffic-advisor` | Diz **quando vale a pena** investir em tráfego pago (semáforo 🔴/🟡/🟢, CAC/CPA e orçamento) |
+| `paid-ads-strategist` | Estrutura campanhas Meta/TikTok Ads, criativos de anúncio e Pixel/UTM |
 
-Fluxo: pesquisa → gancho → roteiro → revisão → produção → legenda → revisão.
+Fluxo orgânico: pesquisa → gancho → roteiro → revisão → produção → legenda → revisão.
+Fluxo pago: vídeo validado no orgânico → `paid-traffic-advisor` → `paid-ads-strategist`.
 
 ## Como Usar
 

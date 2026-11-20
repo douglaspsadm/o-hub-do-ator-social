@@ -18,7 +18,16 @@
     {"name": "video-watch", "origin": "bradautomates/claude-video (skills/watch, renamed)", "license": "MIT"},
     {"name": "mkt-social", "origin": "coreyhaines31/marketingskills (skills/social, renamed)", "license": "MIT"},
     {"name": "mkt-copywriting", "origin": "coreyhaines31/marketingskills (skills/copywriting, renamed)", "license": "MIT"},
-    {"name": "mkt-copy-editing", "origin": "coreyhaines31/marketingskills (skills/copy-editing, renamed)", "license": "MIT"}
+    {"name": "mkt-copy-editing", "origin": "coreyhaines31/marketingskills (skills/copy-editing, renamed)", "license": "MIT"},
+    {"name": "paid-traffic-readiness", "origin": "local"},
+    {"name": "mkt-ads", "origin": "coreyhaines31/marketingskills (skills/ads, renamed)", "license": "MIT"},
+    {"name": "mkt-ad-creative", "origin": "coreyhaines31/marketingskills (skills/ad-creative, renamed)", "license": "MIT"},
+    {"name": "mkt-conversion-tracking", "origin": "coreyhaines31/marketingskills (skills/conversion-tracking, renamed)", "license": "MIT"},
+    {"name": "ads-meta", "origin": "AgriciDaniel/claude-ads", "license": "MIT"},
+    {"name": "ads-tiktok", "origin": "AgriciDaniel/claude-ads", "license": "MIT"},
+    {"name": "ads-budget", "origin": "AgriciDaniel/claude-ads", "license": "MIT"},
+    {"name": "ads-math", "origin": "AgriciDaniel/claude-ads", "license": "MIT"},
+    {"name": "ads-plan", "origin": "AgriciDaniel/claude-ads", "license": "MIT"}
   ],
   "external": [
     {"name": "remotion-dev/skills", "install": "npx skills add remotion-dev/skills", "reason": "sem licença de redistribuição explícita; Remotion exige licença comercial para empresas maiores", "owner": "video-producer"}
